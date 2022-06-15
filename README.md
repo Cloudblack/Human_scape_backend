@@ -63,7 +63,7 @@
 	- [x] 팀원간 동일한 Git branch전략, commit단위 사용
 
 
-## [API 배포 Link](http://52.78.198.214/api/research)
+
 
 <br>
 
